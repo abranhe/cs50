@@ -1,6 +1,6 @@
 {
   "name": "cs50",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "The CS50 Library for C ready to use with Clib",
   "license": "BSD 3-Clause",
   "keywords": [
