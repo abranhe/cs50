@@ -1,0 +1,19 @@
+{
+  "name": "cs50",
+  "version": "1.0.2",
+  "description": "The CS50 Library for C ready to use with Clib",
+  "license": "BSD 3-Clause",
+  "keywords": [
+    "c",
+    "cs50",
+    "computer-science",
+    "harvard",
+    "lib",
+    "library"
+  ],
+  "repo": "abranhe/cs50",
+  "src": [
+    "cs50.h",
+    "cs50.c"
+  ]
+}
