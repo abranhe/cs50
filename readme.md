@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-	<a href="https://travis-ci.org/abranhe/os.c">
-		<img src="https://img.shields.io/travis/abranhe/os.c.svg?logo=travis"/>
+	<a href="https://travis-ci.org/abranhe/cs50">
+		<img src="https://img.shields.io/travis/abranhe/cs50.svg?logo=travis"/>
 	</a>
 	<a href="https://github.com/abranhe"><img src="https://abranhe.com/badge.svg"></a>
 	<a href="https://cash.me/$abranhe"><img src="https://cdn.abranhe.com/badges/cash-me.svg"></a>
@@ -166,10 +166,8 @@ The CS50 library is owned and managed by the Team behind CS50, [learn more](cs50
 <!-------------------- Links ------------------------>
 [abranhe]: https://github.com/abranhe
 [abranhe-img]: https://avatars3.githubusercontent.com/u/21347264?s=50
-[license]: https://github.com/abranhe/os.c/blob/master/license
-[example]: https://github.com/abranhe/os.c/blob/master/example.c
+[license]: https://github.com/abranhe/cs50/blob/master/license
+[example]: https://github.com/abranhe/cs50/blob/master/example.c
 [cs50]: https://github.com/cs50/libcs50
-[travis-badge]: https://img.shields.io/travis/abranhe/os.c.svg
-[travis-status]: https://travis-ci.org/abranhe/os.c
-[coverage-badge]: https://img.shields.io/coveralls/abranhe/os.c.svg
-[coverage-status]: https://coveralls.io/r/abranhe/os.c?branch=master
+[travis-badge]: https://img.shields.io/travis/abranhe/cs50.svg
+[travis-status]: https://travis-ci.org/abranhe/cs50
