@@ -12,9 +12,6 @@
 	<a href="https://travis-ci.org/abranhe/cs50">
 		<img src="https://img.shields.io/travis/abranhe/cs50.svg?logo=travis"/>
 	</a>
-	<a href="https://github.com/abranhe"><img src="https://abranhe.com/badge.svg"></a>
-	<a href="https://cash.me/$abranhe"><img src="https://cdn.abranhe.com/badges/cash-me.svg"></a>
-	<a href="https://patreon.com/abranhe"><img src="https://cdn.abranhe.com/badges/patreon.svg"/></a>
   <br>
   <br>
 </p>
